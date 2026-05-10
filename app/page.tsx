@@ -1,4 +1,4 @@
-export default function SasibhushanPortfolio(): JSX.Element {
+export default function SasibhushanPortfolio() {
   const projects = [
     {
       title: "Onboarding Funnel Experience Transformation",
